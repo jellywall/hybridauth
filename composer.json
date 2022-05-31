@@ -11,10 +11,12 @@
             "email": "hybridauth@gmail.com"
         }
     ],
-    "facebook": {
-            "type": "vcs",
-            "url": "https://github.com/jellywall/php-graph-sdk"
-        },
+     "repositories": {
+        "facebook": {
+                "type": "vcs",
+                "url": "https://github.com/jellywall/php-graph-sdk"
+        }
+     },
     "support": {
         "email": "hybridauth@gmail.com",
         "forum": "https://groups.google.com/d/forum/hybridauth",
