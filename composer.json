@@ -37,8 +37,5 @@
         "classmap":[
           "hybridauth/Hybrid"
         ]
-    },
-    "replace": {
-        "hybridauth/hybridauth": "2.*"
-    }
+    } 
 }
