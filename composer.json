@@ -39,6 +39,6 @@
         ]
     },
     "replace": {
-        "hybridauth/hybridauth": "*"
+        "hybridauth/hybridauth": "2.*"
     }
 }
