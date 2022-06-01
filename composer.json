@@ -26,7 +26,7 @@
     "require": {
         "php": ">=5.2.0",
         "ext-curl": "*",
-        "facebook/graph-sdk": "dev-jellywall",
+        "facebook/graph-sdk": "5.4.5",
         "paypal/rest-api-sdk-php": "*" 
     },
     "require-dev": {
